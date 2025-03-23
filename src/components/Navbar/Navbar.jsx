@@ -1,6 +1,6 @@
 import React from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi';
-import { MdOutlineRestaurantMenu } from 'react-icons/md';
+import { MdOutlineMenu } from 'react-icons/md';
 // import images from '../../constants/images';
 import './navbar.css';
 
